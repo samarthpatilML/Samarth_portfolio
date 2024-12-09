@@ -41,7 +41,7 @@ const experiences = [
   
   {
     title: "Computer Science",
-    company_name: "Undergraduate",
+    company_name: "",
     date: "2023 - 2025",
     details: [
       "Built a <span style='color: white;'>computer science foundation</span> learning theory, computer architecture, and software engineering.",
